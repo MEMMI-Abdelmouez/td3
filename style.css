@@ -2,3 +2,8 @@
     text-align: center;
     background-color: aqua;
 }
+.menu{
+    background-color: palegreen;
+    color: white;
+    padding: 10px;
+}
